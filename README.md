@@ -1,4 +1,4 @@
-# 2D Platformer Project = "SunnyLand"
+# 2D Platformer Project - "SunnyLand"
 2D Platformer game - 3/19
 
 A 2D platformer where you control a fox through a level with possums and eagles, collecting cherries for points. Use A and D to move and Space to jump. 
